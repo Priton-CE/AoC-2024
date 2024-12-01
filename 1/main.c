@@ -65,10 +65,6 @@ uint32_t part1(char* input, uint32_t input_length) {
     // create column arroys
     int first_column[1000];
     int second_column[1000];
-    for (int i = 0; i < 1000; i++) {
-        first_column[i] = -1;
-        second_column[i] = -1;
-    }
 
     parse_list(input, input_length, first_column, second_column, 1000);
 
@@ -101,10 +97,6 @@ uint32_t part2(char* input, uint32_t input_length) {
     // create column arroys
     int first_column[1000];
     int second_column[1000];
-    for (int i = 0; i < 1000; i++) {
-        first_column[i] = -1;
-        second_column[i] = -1;
-    }
 
     parse_list(input, input_length, first_column, second_column, 1000);
 
