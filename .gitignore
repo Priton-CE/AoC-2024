@@ -1,0 +1,6 @@
+# builds
+target/
+*.out
+
+# tasks or other input files
+*.task
