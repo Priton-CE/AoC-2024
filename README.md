@@ -27,3 +27,6 @@ Except for day 1 cause I already commited that one and am too lazy to rebase it.
   - I wanted to do this one in Rust but Rust has no support for ASCII Strings as I found out debating with Xelph. Gonna be using C++ for this one.
   - Yes I know I could just have used Regex. My hope is that this is faster. Idk if it is and I am so tired that I do not care.
   - I hate this day. It took me like 4h. Probably more. I settled on using string search instead of trying to find do() and dont() in the same way I find mult. It just didnt work and I was loosing my sanity.
+- Day 4
+  - Lesson learned from day 3. I'll keep this one simple. No weird jumping around. Gonna be using Rust on this one as well.
+  - Wow this day was easy. I was able to do this mid lecture.
