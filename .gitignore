@@ -3,6 +3,7 @@
 
 # builds
 target/
+main
 *.out
 
 # tasks or other input files
